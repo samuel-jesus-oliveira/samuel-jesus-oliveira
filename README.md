@@ -14,8 +14,7 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="mailto:[SEU_EMAIL]">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-
-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
  </div>
 
@@ -27,20 +26,19 @@ the-badge&logo=instagram&logoColor=white">
 - 🎯 Focado em transformar dados em insights estratégicos.
 
 ## 🚀 Tecnologias 
-### Data Science & Backend
+### Data Science & Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Tools
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-codelogoColor=white)
 
 ### 📂 Projetos em Destaque
-1. **[Projeto Bolsa Família](https://github.com/samuel-jesus-oliveira/projeto-bolsa-familia):** Processamento de dados em larga escala com PySpark e Python.
+1. **[Projeto Bolsa Família](https://github.com/samuel-jesus-oliveira/bolsa_familia):** Processamento de dados em larga escala com PySpark e Python.
 2. **[Projeto Git](https://github.com/samuel-jesus-oliveira/projeto-git):** Repositório focado em práticas de versionamento acadêmico.
 
 ---
